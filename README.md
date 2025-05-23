@@ -36,8 +36,8 @@
 
 <table >
   <tr>
-    <td align="center" style="background-color:#e1f5fe; padding:12px; border-radius:8px; ">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" /><br><sub>Arduino</sub>
+  <td align="center" style="background-color:#f8bbd0; padding:12px; border-radius:8px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="75" /><br><sub>React</sub>
     </td>
     <td align="center" style="background-color:#f8bbd0; padding:12px; border-radius:8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="75" /><br><sub>Bootstrap</sub>
@@ -52,6 +52,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="75" /><br><sub>HTML5</sub>
     </td>
   
+  <td align="center" style="background-color:#e1f5fe; padding:12px; border-radius:8px; ">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" /><br><sub>Arduino</sub>
+    </td>
+    
+  </tr>
 
   <tr>
     <td align="center" style="background-color:#f8bbd0; padding:12px; border-radius:8px;">
@@ -68,6 +73,9 @@
     </td>
     <td align="center" style="background-color:#f8bbd0; padding:12px; border-radius:8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="75" /><br><sub>Redux</sub>
+    </td>
+     <td align="center" style="background-color:#d1c4e9; padding:12px; border-radius:8px;">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"  width="75" /><br><sub>Selinium</sub>
     </td>
   </tr>
 
@@ -87,6 +95,10 @@
     <td align="center" style="background-color:#d1c4e9; padding:12px; border-radius:8px;">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br><sub>Postman</sub>
     </td>
+     <td align="center" style="background-color:#d1c4e9; padding:12px; border-radius:8px;">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  width="75" /><br><sub>Tailwind</sub>
+    </td>
+
   </tr>
 </table>
 </div>
