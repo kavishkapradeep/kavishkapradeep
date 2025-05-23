@@ -6,10 +6,6 @@
 <h1 align="center" >Hi 👋, I'm Kavishka Pradeep</h1>
 <h3 align="center">💻 A Passionate Frontend Developer and Mern Developer </h3>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding Animation" />
-</div>
-
 ---
 
 ### 🔍 About Me
@@ -41,7 +37,7 @@
 <table >
   <tr>
     <td align="center" style="background-color:#e1f5fe; padding:12px; border-radius:8px; ">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="75" /><br><sub>Arduino</sub>
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" /><br><sub>Arduino</sub>
     </td>
     <td align="center" style="background-color:#f8bbd0; padding:12px; border-radius:8px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="75" /><br><sub>Bootstrap</sub>
